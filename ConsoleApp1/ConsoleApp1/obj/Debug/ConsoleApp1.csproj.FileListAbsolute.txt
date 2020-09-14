@@ -1,0 +1,7 @@
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Crane\MySelf\PT. Nawa Solusi\Technical Test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
